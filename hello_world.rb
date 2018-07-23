@@ -1,2 +1,2 @@
-```ruby
-ruby hello_world.rb
+```bash
+$ ruby hello_world.rb
